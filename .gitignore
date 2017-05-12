@@ -3,12 +3,3 @@
 # Example .gitignore files: https://github.com/github/gitignore
 /bower_components/
 /node_modules/
-<html>
-<head>
-
-</head>
-<body>
-hi
-</body>
-
-</html>
